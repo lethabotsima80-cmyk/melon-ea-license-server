@@ -1,0 +1,13 @@
+
+{
+  "name": "melon-ea-license-server",
+  "version": "1.0.0",
+  "description": "Melon EA License Verification Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
